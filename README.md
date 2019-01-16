@@ -1,6 +1,6 @@
 # Python
 
-Les cours:
+### Les cours:
 * [1.Introduction](https://github.com/geilerloui/Python/blob/master/1.Introduction/note_semaine1.md)
 * [2.Notion_de_base	](https://github.com/geilerloui/Python/blob/master/2.Notion_de_base/notes.md)
 * [3.Renforcement_et_references_partagees	](https://github.com/geilerloui/Python/blob/master/3.Renforcement_et_references_partagees/notes_s3.md)
